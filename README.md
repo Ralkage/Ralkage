@@ -63,12 +63,6 @@ Configurable word censoring with per-user toggles and guest/user defaults.
 - Expanding QA automation coverage with Playwright
 - Creating useful tools for forum owners, developers, and online communities
 
-## GitHub stats
-
-![Ralkage's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ralkage&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ralkage&layout=compact&theme=github_dark&hide_border=true)
-
 ## Connect
 
 - GitHub: [@Ralkage](https://github.com/Ralkage)
