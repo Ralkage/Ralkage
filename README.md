@@ -1,4 +1,4 @@
-# Hi, I'm Christian Lopez 👋
+# Hi, I'm Ral 👋
 
 I'm a QA Automation Engineer and forum software developer who enjoys building practical tools for online communities, automation workflows, and developer-friendly extensions.
 
